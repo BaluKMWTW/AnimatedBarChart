@@ -1,18 +1,8 @@
-// Bar Chart Animation
-//
-// This application uses BarChartAnimate (which uses BarChart, which uses Bar)
-// to produce an animated bar chart.
-//
-// Once your three class/abstraction files are completed and tested, run with
-// this application to see your final creation.
-//
-// TO DO: Nothing for the standard application, just compile and run! However,
-// before submitting you need to add your creative component.
-//
-// Shanon Reckinger
-// U. of Illinois, Chicago
-// CS 251: Fall 2021
-//
+/*
+Jan Komorowski - jankomorowski.01@gmail.com
+AnimatedBarChart is a program that creates and animated console chart that refreshes the console (where each refresh is a new frame)
+it shows the comparsion of big data that changes with time such as population of x biggest cities in the world
+*/
 
 #include <iostream>
 #include <fstream>
